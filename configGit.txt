@@ -1,0 +1,1 @@
+para cambiar el nombre de la rama de manera default: git config --global init.defaultBranch "nombre que le queramos poner default"
